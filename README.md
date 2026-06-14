@@ -1,2 +1,4 @@
 # dataset_mining_excavator
-If you want to download the dataset, click here: (link)
+
+To download the raw dataset, click here: (link)
+To download the augmented dataset, click here: (link)
